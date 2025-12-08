@@ -1,3 +1,5 @@
+
+
 This repository provides a robust framework for image preprocessing, incorporating several advanced techniques. It starts with Pixel Intensity Comparison, where images are analyzed based on pixel values to differentiate regions of interest. Following this, Region-Based Segmentation is applied to classify and isolate distinct regions within the image. The workflow then utilizes Watershed Analysis, a technique that segments the image based on the elevation map of pixel intensities. Finally, Morphological Operations enhance the segmentation results by applying transformations like dilation, erosion, and gradient operations. Together, these methods offer a comprehensive approach to preparing images for further analysis, ensuring accurate and efficient segmentation and feature extraction.
 
 ![thresholod](https://github.com/user-attachments/assets/53f5cbb6-5ce9-47c4-b1c5-cc3f926671d3)
